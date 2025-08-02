@@ -12,7 +12,6 @@ This guide will walk you through setting up **Tailwind CSS v3.4.17** with **Vite
   - [4. Integrate Vite (Optional)](#4-integrate-vite-optional)
   - [5. Start Development Server](#5-start-development-server)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Prerequisites
 
@@ -148,9 +147,6 @@ Now, you have a fully functional **Tailwind CSS** setup with **Vite** for fast d
 
 If you want to deploy the project, simply run `npm run build` and deploy the contents of the `dist/` folder to your hosting provider.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
